@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/endbtn"
+        android:text="關閉此頁"
+        android:textSize="26sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="22sp"
+                android:textColor="#000000"
+                android:text="墨西哥跳水女將查維茲（Arantxa Chávez）是相當知名的跳水選手，2017年來台也掃了三面獎牌凱旋歸國，今年她也來到日本參加延期一年的東京奧運，不過昨（30日）在女子3公尺跳板跳水預賽卻發生大失誤，第三跳時竟然腳滑，什麼技巧都沒做就直接落水，最後自然也是拿下0分，堪稱是昨天賽事中最不忍看到的失誤。
+
+查維茲昨天參加女子3公尺跳板跳水預賽，前兩跳總計拿下94.50分，排名第24名，不過她的第三跳卻是一場災難，從當時的比賽畫面可見，查維茲已經跳到前端，不過之後疑似有些腳滑，加上重心不穩，什麼動作都沒有做就直直落水，正因如此，她在第三跳的得分就掛了一個大大的鴨蛋，總成績也直接掉到最後一名，最後也遭到淘汰，無緣晉級半決賽。
+
+查維茲失足無緣晉級，不過她的搭檔瓦奎茲（Aranza Vázquez）以總分294.30分排名第8，順利晉級。
+
+如果有在關注2017年台北世大運跳水項目，相信對於查維茲這個名字一定不陌生，她是墨西哥2012年倫敦奧運的跳水選手，2013年喀山世大運在女子3公尺跳板獲得銅牌，2017年來台參加世大運，包含3公尺混合雙人跳板、3公尺女子雙人跳板以及3公尺女子跳板的項目，金牌都被她給抱走，等於是橫掃所有3公尺跳板賽事的金牌。
+
+此外，查維茲當年來台也發生一段小故事，那就是她前往北海岸觀光時，竟然被計程車給丟包，所幸之後獲得台灣民眾的熱情幫忙，甚至還邀請她到家裡做客吃飯，展現台灣人熱情好客的一面。
+
+"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>
